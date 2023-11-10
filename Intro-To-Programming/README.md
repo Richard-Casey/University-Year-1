@@ -1,4 +1,4 @@
-Overall Grade for Module: 77.2%
+**Overall Grade for Module: 77.2%**
 
 This module was very informative and provided a lot of information.
 
