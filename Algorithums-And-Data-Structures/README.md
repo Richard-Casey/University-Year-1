@@ -35,11 +35,11 @@ remove
 remove last  
 move up and down  
 
-Quick sort - 5  
-Bubble sort - 5  
-Insertion sort - 5  
-Radix Sort - 5  
-Traveling salesman (Nearest Neighbour algorithm) - 20  
-Binary search - 10  
-Binary (minimum) heap - 20  
-Binary search tree - 10
+Quick sort  
+Bubble sort  
+Insertion sort  
+Radix Sort  
+Traveling salesman (Nearest Neighbour algorithm)  
+Binary search  
+Binary (minimum) heap  
+Binary search tree
