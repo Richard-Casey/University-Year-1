@@ -1,3 +1,5 @@
+OVerall Grade for Module: 77.2%
+
 This module was very informative and provided a lot of information.
 
 The tasks to complete in this module were in the form of 'Progress checks' based on the information given to show understanding of the material.
