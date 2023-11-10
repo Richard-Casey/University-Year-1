@@ -1,3 +1,5 @@
+**Overall grade for Module:  62%**
+
 Critical Games Studies:
 
 This module introduces students to some selected historical and cultural aspects of games in order to provide
