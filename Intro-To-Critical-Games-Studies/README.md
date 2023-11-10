@@ -1,4 +1,5 @@
 Critical Games Studies:
+
 This module introduces students to some selected historical and cultural aspects of games in order to provide
 a broader background to the topic of the changing role and function of games in culture and society over
 time.   Through a series of case studies looking at historical examples of ancient games and Early Modern
