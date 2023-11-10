@@ -1,5 +1,6 @@
 # University-Year-1
-Work completed in my first year attending the University of Suffolk (2021-2022)
+Work completed in my first year attending the University of Suffolk (2021-2022).  
+Modules completed in the first year are not counted towards grade recieved at graduatiuon upon completion of the course in full.
 
 Included in this repository is my work for the following modules.
 
