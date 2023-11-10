@@ -1,4 +1,4 @@
-# **Overall grade for Module: 79% ** 
+# **Overall grade for Module: 79%** 
 Algorithums And Data Structures:
 
 For this assessment, you will submit the following algorithms and data structures as part of a single
