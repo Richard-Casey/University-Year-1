@@ -13,29 +13,29 @@ If you submit more than one project, I will run the first one and no other.
 
 Algorithms and data structures to implement:
 
-Stack  
+Stack:  
 Enqueue push  
 Dequeue pop  
 
-Queue  
+Queue:  
 Enqueue  
 Dequeue  
 
-Linked List  
+Linked List:  
 add  
 insert  
 remove  
 remove last  
 move up and down  
 
-Doubly linked lists  
+Doubly linked lists:  
 add  
 insert  
 remove  
 remove last  
 move up and down  
 
-Quick sort  
+Quick sort:  
 Bubble sort  
 Insertion sort  
 Radix Sort  
