@@ -12,6 +12,7 @@ If you submit just the code files with no project, I will not rebuild the projec
 If you submit more than one project, I will run the first one and no other.  
 
 Algorithms and data structures to implement:
+
 Stack  
 Enqueue push  
 Dequeue pop  
