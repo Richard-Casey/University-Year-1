@@ -1,33 +1,74 @@
-# **Overall grade for Game: 53%  - Overall grade for Individual Contributions 66%**
-Group Project:
 
-Managing Games Production / Group Project  
-Assignment 1: The game (20%)  
-In this assignment, we are assessing the skills you have developed so far in the following areas:
-Produce a game within identifiable constraints through an iterative approach to game
-production.  
-This assignment will demonstrate your ability to complete a game against an initial design
-specification. Quality of gameplay experience, iterative development of the game and ability to
-satisfy an identified market through appropriate gameplay design will be examined. The game will
-be completed as a group, and therefore group marks will be given to each student. For example, if a
-game is considered passable at 65%, all students who made that game, and provided evidence of
-individual contributions, will receive 65% for this assessment.  
-You have been tasked with developing a game within a team across the whole semester.  
+# Group Project (Year 1) – Sling! (Unity Game)
 
-Managing Games Production / Group Project  
-Assignment 2: Individual portfolio of contributions to the Semester 2 game (80%)
-In this assignment, we are assessing the skills you have developed so far in the following areas:  
-Produce a game within identifiable constraints through an iterative approach to game
-production.  
-Plan, estimate and control the resource requirements for small projects on an ongoing basis.  
-Demonstrate intermediate level knowledge in the use of appropriate project management
-software to devise quality management systems for small projects.  
-Proactively maintain communication and reflect on a game’s development within a small
-development team.  
+**Overall Game Grade: 53% – Pass**  
+**Individual Contributions Grade: 66% – Upper Second Class (2:1)**
 
-Throughout this semester, you will be participating in the game development process through a
-semester long game development project. This will show your ability to estimate and control project
-resources, implement and execute test plans on an ongoing basis, communicate game and individual
-progress in a consistent and effective manner, including the ability to pitch. Use of documentation
-and software related to project management will also be demonstrated in addition to your ability to
-reflect on work and identify best practices on a range of issues
+This was my first major group project at university. We were tasked with producing a playable game prototype as a team over a semester. Our game was titled **"Sling!"**, a quirky 3D platformer starring a spider navigating a hazardous kitchen environment using slingshot-style movement mechanics.
+
+---
+
+## 🎮 Game Overview – Sling!
+
+**Sling!** is a third-person physics-based traversal game where the player controls a spider that swings across countertops, dodges kitchen hazards, and tries to reach the finish point.
+
+- Physics-based **web slinging and climbing**
+- Environmental hazards (fire, boiling water, slippery surfaces)
+- Custom movement, jump, and climb scripts
+- Raycasting for detection and interaction
+- Health system and basic UI elements
+
+---
+
+## 🧠 Module Structure
+
+This group project was split into two assessments:
+
+### 📦 Assignment 1 – The Game (20%)
+- Group-based project build
+- Iterative design and testing
+- Final playable Unity prototype
+- **Grade Earned: 53%**
+
+### 🧾 Assignment 2 – Individual Portfolio (80%)
+- Screenshots of contributions (scripts, problem solving, communication)
+- Custom C# scripting across player control, UI, and systems
+- Group conflict documentation and leadership reflection
+- **Grade Earned: 66%**
+
+---
+
+## 💻 My Contributions
+
+| Area | Description |
+|------|-------------|
+| 🕹️ Player Systems | Custom slinging & movement scripts (`SpiderClimb.cs`, `PlayerMovementOLD.cs`, `JumpOLD.cs`) |
+| 🧠 Game Logic | Spawner systems, raycasting interaction, timer and health systems |
+| 🧾 Communication | Screenshots/logs of problem solving, attendance tracking, build bug reports |
+| 📸 Portfolio | Full postmortem, breakdown of team issues, and personal contributions |
+
+---
+
+## 📁 Project Contents
+
+- `Game-Submission/` – The Unity project build of *Sling!*
+- `Individual-Contributions/` – Scripts, screenshots, and postmortem documentation
+- `Scripts/` – All authored C# gameplay scripts
+- `ScreenShots/` – Evidence of collaboration, problem solving, and build testing
+
+---
+
+## 💭 Reflection
+
+This was my first experience with collaborative development, and it taught me as much about **team management** as it did about scripting. We faced challenges around participation, communication, and creative vision — but I still delivered substantial, documented code and design work.
+
+It also helped me learn:
+- How to work independently within a team
+- The value of clear documentation and testing
+- How to handle technical and interpersonal roadblocks
+
+---
+
+## 🙌 Final Thoughts
+
+*Sling!* was far from perfect — but it was the project where I proved I could contribute meaningfully, communicate professionally, and write functional gameplay code. It laid a foundation for later solo and team-based projects in Year 2 and beyond.
