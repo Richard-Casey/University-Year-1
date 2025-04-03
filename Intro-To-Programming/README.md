@@ -1,9 +1,49 @@
-# **Overall Grade for Module: 77.2%**
 
-Introduction To Programming:
+# Introduction to Programming – C# Foundations
 
-This module was very informative and provided a lot of information.
+**Module Grade: 77.2% – First Class Honours**
 
-The tasks to complete in this module were in the form of 'Progress checks' based on the information given to show understanding of the material. I found it hugly informative and refered to the item in this module regulary over my first and some of my second year of University.
+This was my first formal programming module at university, focusing on foundational coding principles using **C#**. The content covered essential programming concepts through structured weekly progress checks — which served both as tutorials and self-assessment.
 
-I will post the material given to us along with the results of the progress checks (as the questions asked are not availible once the quiz was completed).
+---
+
+## 🧠 Module Focus
+
+- Understand basic **programming logic and control flow**
+- Develop competency using **Visual Studio** and **C#**
+- Use structured programming techniques (conditions, loops, functions)
+- Write clean, readable code with consistent formatting
+- Engage with regular **progress checks** to reinforce learning
+
+---
+
+## 📁 Folder Contents
+
+This folder contains:
+- 🔍 Code I wrote during the module’s progress checks
+- 🧾 Exported results and screenshots where applicable
+- 📘 Reference material provided to us during the course
+
+Due to how the quizzes worked, questions were not viewable after submission, so I’ve included only the material and my responses.
+
+---
+
+## 🔧 Key Topics Covered
+
+- Variables, types, and user input
+- Conditional statements (if/else/switch)
+- Loops (for, while, do-while)
+- Methods and parameters
+- Arrays and simple data structures
+
+---
+
+## 💭 Reflection
+
+This module played a huge role in shaping my understanding of programming. I returned to the content often throughout my first and even second year as a **reliable reference point** when tackling new concepts or debugging issues.
+
+---
+
+## 🙌 Final Thoughts
+
+Clear, consistent practice and solid teaching made this one of the most important early modules of my degree. It built the confidence and structure I’d need to approach more complex subjects like engine development and tools programming later on.
