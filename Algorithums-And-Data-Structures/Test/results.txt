@@ -1,4 +1,0 @@
-MSBUILD : error MSB1001: Unknown switch.
-Switch: --logger;txr
-
-For switch syntax, type "MSBuild -help"
